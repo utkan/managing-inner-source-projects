@@ -24,7 +24,7 @@ reached the market acceptance we see nowadays? How has it engaged so many
 people and organizations to contribute to it?
 
 It’s a teamwork effort and quoting John Wooden (former UCLA Bruins
-basketball coach) in IBM Linux comercial [^2]:
+basketball coach) in IBM Linux commercial [^2]:
 
 “A player who makes a team great is more valuable than a great player.
 Losing yourself in the group for the good of the group, that’s
