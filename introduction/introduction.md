@@ -53,7 +53,7 @@ them[^4] as:
 6. Meritocracy
 
 As an organization willing to adopt InnerSource methodology, the first step is to look
-how close are organization's principles with these open source ecosytem principles, and 
+how close are organization's principles with these open source ecosystem principles, and 
 work on minimizing the *deltas* with them.
 
 [^1]: https://www.wsj.com/articles/SB10001424053111903480904576512250915629460
